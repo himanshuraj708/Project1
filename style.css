@@ -1,0 +1,28 @@
+body{
+     margin: 0;
+     padding: 0;
+     background: url(SSITPROJECTIMAGE.png);
+     background-size: cover;
+     background-position: center;
+     font-family: sans-serif;
+}
+
+.loginbox{
+      width: 320px;
+      height: 420px;
+      background: #000;
+      color: #fff;
+      top: 50%;
+      left: 60%;
+      position: absolute;
+      transform: translate(-50%,-50%);
+      box-sizing: border-box;
+      }
+.loginbox input{
+     width: 80%;
+     margin-bottom: 20px;
+}
+.center form{
+    padding: 0 40px
+    box-sizing:
+}
